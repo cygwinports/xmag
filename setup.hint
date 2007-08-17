@@ -1,4 +1,4 @@
 category: X11
-requires: cygwin libX11_6 libXaw8
+requires: cygwin libX11_6 libXaw8 libXmu6 libXt6
 sdesc: "Xorg screen magnifier"
 ldesc: "Xorg screen magnifier"
