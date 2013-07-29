@@ -1,0 +1,8 @@
+inherit xorg
+
+NAME="xmag"
+VERSION=1.0.4
+RELEASE=1
+CATEGORY="X11"
+SUMMARY="X screen magnifier"
+DESCRIPTION="The xmag program allows you to magnify portions of an X screen."
